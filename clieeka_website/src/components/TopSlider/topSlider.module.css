@@ -1,0 +1,118 @@
+.parentDiv{
+    max-width:1136px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+    padding-top: 50px;
+    /* position: relative; */
+
+}
+
+.text{
+z-index: 10;
+}
+
+.page1{
+    font-size: 60px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: "Raleway", sans-serif;
+    font-weight: 900;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+}
+
+.page2{
+    font-size: 16px;
+    font-family: "Raleway", sans-serif;
+    line-height: 26px;
+    /* padding-right: 77px; */
+    font-weight: 100;
+    color: #FFFFFF;
+}
+
+.img{
+    width: 500px;
+}
+
+.bacground{
+    /* background-color:rgb(209, 165, 108); */
+    height: 620px;
+    position: relative;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    animation-duration: 2s;
+
+}
+
+.bacgroundImg{
+    position: absolute;
+    width: 100%;
+    opacity: 10%;
+    height: 620px;
+    animation-duration: 3s;
+
+}
+
+
+.imgsSlider{
+    z-index: 10;
+    animation-duration: 3s;
+
+}
+
+.button p{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: Green;
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    animation-duration: 3s;
+
+}
+.button{
+    background-color: #FFFFFF;
+    display: inline-block;
+    margin-top: 40px;
+    padding: 14px 50px;
+    border-radius: 23px;
+
+    animation-name: buton1;
+    animation-duration: 3s;
+}
+
+
+.button span{
+    font-size: 13px;
+    color: Green;
+    
+}
+
+.clicker{
+    position: absolute;
+    bottom: 125px;
+    left: 45%;
+    display: flex;
+    gap: 5px;
+
+    
+}
+
+.clicker p{
+    width: 12px;
+    height: 12px;
+    border-radius: 50px;
+    /* background-color: #FFFFFF; */
+   border: 1.5px solid;
+   color: #FFFFFF;
+}
+
+
+
+

@@ -1,0 +1,69 @@
+
+
+
+
+@keyframes animation1 {
+    from{
+        transform: translateX(-0px);
+        opacity: -3;
+    }
+
+    to{
+        transform: translateX(0px);
+        opacity: 1;
+        
+    }
+}
+
+
+@keyframes animation2 {
+    from{
+        transform: translateX(-0px);
+        opacity: -3;
+    }
+
+    to{
+        transform: translateX(0px);
+        opacity: 1;
+        
+    }
+}
+@keyframes animation3 {
+    from{
+        transform: translateX(-0px);
+        opacity: -3;
+    }
+
+    to{
+        transform: translateX(0px);
+        opacity: 1;
+        
+    }
+}
+@keyframes animation4 {
+    from{
+        transform: translateX(-0px);
+        opacity: -3;
+    }
+
+    to{
+        transform: translateX(0px);
+        opacity: 1;
+        
+    }
+}
+
+
+@keyframes animation5 {
+    from{
+        transform: translateX(-0px);
+        opacity: -3;
+    }
+
+    to{
+        transform: translateX(0px);
+        opacity: 1;
+        
+    }
+}
+

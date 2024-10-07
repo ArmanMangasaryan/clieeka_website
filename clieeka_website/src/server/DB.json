@@ -1,0 +1,250 @@
+
+{
+    "direction": [
+        {
+            "name":"Лор",
+            "img":"https://docnear.ru/wp-content/uploads/2022/11/Rectangle-5.png"
+        },
+        {
+            "name":"Сурдология",
+            "img": "https://docnear.ru/wp-content/uploads/2022/11/Rectangle-5-1.png"
+            
+        },
+        {
+            "name":"Ревматология",
+            "img": "https://docnear.ru/wp-content/uploads/2022/11/Rectangle-5-5.png"
+            
+        },
+        {
+            "name":"Неврология",
+            "img": "https://docnear.ru/wp-content/uploads/2022/11/Rectangle-5-3.png"
+            
+        },
+        {
+            "name":"Кардиология",
+            "img": "https://docnear.ru/wp-content/uploads/2022/11/Rectangle-5-8.png"
+            
+        },
+        {
+            "name":"УЗИ",
+            "img": "https://docnear.ru/wp-content/uploads/2022/11/Rectangle-5-7.png"
+            
+        },
+        {
+            "name":"Гастроэнтерология",
+            "img": "https://docnear.ru/wp-content/uploads/2022/11/Rectangle-5-6.png"
+            
+        },
+        {
+            "name":"Урология",
+            "img": "https://docnear.ru/wp-content/uploads/2022/11/Rectangle-5-11.png"
+            
+        },
+        {
+            "name":"УЗИ- диагностика",
+            "img": "https://docnear.ru/wp-content/uploads/2022/11/Rectangle-5-7.png"
+            
+        },
+        {
+            "name":"Кардиология",
+            "img": "https://docnear.ru/wp-content/uploads/2022/11/Rectangle-5-8.png"
+            
+        },
+        {
+            "name":"Эндокринология",
+            "img": "https://s3-alpha-sig.figma.com/img/56ea/f111/575885869dec19327a29aedba2213432?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dbIQ99I~4R9z0UVWCBP1ARqUPLR8b7ktM3eosALMWaZLGA6mpoxTFQgsxiX1pm5KD1BgflBhj9H0LeRHoyu5WiVSnOcjgYTS2yvzxiaorUTJwOzdhCehO9vRMrAd4M-7W6wxhAPSlVsPyqE7ESyQqpVC-uQ2Cw7pTQoY6iNBthQNaPpRmgmclzsDcnF0QF4g4rSlnMnDzzXWlzESqE0BW9HqhDwy-uWkGb9xpMldcmiH1bKkMVnTJwFRzMf~zlXdUUYm1ifxHuG9fO3iBelC94j1Eh9m-TabUQjhPkOGnfYZ2~boTAk8VVhmuLKk27H-CCBUzX4VXM5UUREQj-C~FA__"
+            
+        },
+        {
+            "name":"Общая хирургия",
+            "img": "https://s3-alpha-sig.figma.com/img/d423/90c0/24a263eb9c6a707ffc051506aa558231?Expires=1718582400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=flxW6RZjWdEIrXAsZrnQA3f49PFVdXnI-AeOsWXCc-SMleXOr4x21EKzGWQkGgTzZFtDaAec8uJKm1gTFYt~DCAMM0uyHqtSBffjY95RDdbtkjVpvjX5W5EE8vv42jLqgF7DOvf1MGxcN2JVqzbuEfPtsA9e2hU22q7Hbc3zygtOPOKgXmUwAXSj2rT1ictueIlHY3dxLKjSebbhHlLgSP87~3jpVg03ECB2onHweE~z5Yb5TCPtAh8zSOP6GkVdxFZKmf8gO~DKwjmCLPDFl-4puEaR8rMq7uKT~rOYaNmHT3QNI8lyRY8hEjbRUxRdp6HMcpuZkx2raRRqY-NoQQ__"
+            
+        },
+        {
+            "name":"Урология",
+            "img": "https://docnear.ru/wp-content/uploads/2022/11/Rectangle-5-11.png"
+            
+        }
+    ],
+
+
+
+
+    "specialistsDoctors":[
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        },
+        {
+            "name":"Иванов Иван Иванович",
+            "img":"https://s3-alpha-sig.figma.com/img/27d0/78fc/5f910ac9b6a38deb4edd56162a412c8a?Expires=1721001600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y00~7QnwdY531-l78crVNG4Y0zDaoivyX7~IhXIGwM8I5CsfRy5hQHm7W1SKkr8i7FfAY8TBG0Zm4OulJGvEgkjV5uPKany8RYvc0w3PbV1pgp4MwRfRz5io2MlcyHKAyV-OdkoDozhOrraG3DNrjfvZf5Le~OxA7bxbnqqei1~L4n6GSkAjgIyF~9FsUJFMfObz2J4SAhTLGh1xwhQS3lE-kCCwu-ecIKyz9FEeyiL18wvbB77rCPOckNRvQiI-wo9w2chHpRezAT3ajqKgh7r-aUB55r8VlLMuq7iAaN4zHcpTzkHPpxhkFh~wuevWWvaRoIkiHg3xI~CtPZJAxw__",
+            "specialization":"Врач-уролог"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+.parentDiv{
+    max-width: 1136px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    display: flex;
+    /* justify-content: space-around; */
+    padding-top: 150px;
+    gap: 30px;
+}
+.img{
+    width: 657px;
+    height: 410px;
+}
+
+.parentText{
+    font-family: "Raleway", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.page, .toppage{
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 23px;
+}
+
+.page{
+    display: block;
+    padding-top: 25px;
+}
+.toppage{
+    padding-top: 25px;
+}
+
+.parentDiv div {
+    width: 463px;
+}

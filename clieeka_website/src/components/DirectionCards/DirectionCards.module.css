@@ -1,0 +1,79 @@
+.page{
+    font-family: "Raleway", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+.parentDiv{
+    max-width: 1140px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding-top: 150px;
+    padding-bottom: 150px;
+
+}
+.pagesDiv{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.pagesDiv .button{
+    height: 33px;
+    display: flex;
+    background-color: #279A59;
+     align-items: center;
+    padding: 5px 30px;
+    border-radius: 30px;
+    font-size: 14px;
+    font-family: "Raleway", sans-serif;
+    color: #FFFFFF;
+
+}
+
+.button span {
+    padding-left: 5px;
+    font-size: 14px;
+    
+}
+
+.img{
+    width: 270px;
+    height: 206px;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.card{
+    height: 306px;
+    width: 270px;
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.207);
+}
+
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+
+.page{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.card .links{
+    padding-top: 15px;
+    padding-left: 15px;
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    display: inline-block;
+    color: #3BB96D;
+    text-decoration: underline;
+}
+
+.DataNames{
+    font-size: 18px;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-family: "Raleway", sans-serif;
+
+}

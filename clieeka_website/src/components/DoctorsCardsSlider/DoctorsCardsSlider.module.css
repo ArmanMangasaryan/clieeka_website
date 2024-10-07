@@ -1,0 +1,121 @@
+.ParentDiv{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+
+.bacgroundDiv{
+    background-color: #F1F5F8;
+
+}
+.ChevronRight i, .ChevronLeft i{
+   
+
+}
+
+
+.ChevronLeft, .ChevronRight{
+    width: 30px;
+    height: 30px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    border: 1px solid rgba(39, 154, 89, 1);
+    
+}
+.ChevronLeft{
+    background-color: rgba(130, 130, 130, 0);
+    color: rgba(39, 154, 89, 1);
+}
+.ChevronRight{
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(39, 154, 89, 1);
+}
+
+.ParentDivChevron{
+    display: flex;
+    gap: 10px;
+
+}
+.ParentDivTextChevron{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 50px;
+}
+
+
+.ParentDivTextChevron > p{
+    font-size: 40px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    
+}
+
+.Slider{
+    width: 1140px;
+    overflow: hidden;
+    padding-bottom: 50px;
+}
+
+.transform{
+   display: flex;
+   justify-content: space-around;
+   gap: 20px;
+   transition: 1s all;
+}
+
+.Card{
+    height: 405px;
+}
+.CardImg{
+    overflow: hidden;   
+    object-fit: cover;
+    width: 270px;
+    height: 256px;
+    border-radius: 10px;
+}
+
+.CardName{
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    padding-bottom: 19px;
+    padding-top: 19px;
+}
+
+.CardSpecialization{
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    padding-bottom: 19px;
+}
+
+.CardButton{
+    display: inline-block;
+    border-radius: 30px;
+    color: rgba(255, 255, 255, 1);
+    padding: 15px 48px;
+    background-color: rgba(39, 154, 89, 1);
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Raleway", sans-serif;
+}
+
+.Button{
+    color: rgba(59, 185, 109, 1);
+    display: inline-block;
+    border-radius: 30px;
+    border: 1px solid rgba(59, 185, 109, 1);
+    padding: 15px 48px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Raleway", sans-serif;
+}
+.ParentDivButton{
+    text-align: center;
+}
+

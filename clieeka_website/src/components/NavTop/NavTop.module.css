@@ -1,0 +1,36 @@
+.NavTop{
+    margin: 0 auto;
+    max-width: 1136px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    align-items: center;
+}
+.NavTop a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #686868;
+}
+.buttonNum{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+.buttonNum .num{
+    font-size: 20px;
+    color: #000000;
+}
+
+.buttonNum .button{
+    font-size: 14px;
+    padding: 10px 25px;
+    background-color: aquamarine;
+    border-radius: 20px;
+    background-color: #3BB96D;
+    color: #FFFFFF;
+}
+

@@ -1,0 +1,17 @@
+.NavBotton{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 25px;
+
+}
+.Logo img{
+    width: 144px;
+}
+.NavBotton a {
+    text-decoration: none;
+    color: #0D233B;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+}
